@@ -1,7 +1,10 @@
 # TTA-Pose-Transfer
 
-## Open-World Pose Transfer via Sequential Test-Time Adaption
-**We propose to capture human appearance from Out-of-distribution data via Self-supvised learning.(SSL)**
+## Open-World Pose Transfer via Sequential Test-time Adaption
+**We first build pose transfer under a open-world settings (OWPT), by which the model can handle arbitrary charac-
+teristic and skeleton.**
+
+**We propose SEquential Test-time Adaption (SETA) to generate realistic image on the OOD data.**
 
 **Furthermore, we use motion consistency loss as an auxiliary loss during Test-Time to maintain appearance stability.(TTA)**
 <p float="center">
