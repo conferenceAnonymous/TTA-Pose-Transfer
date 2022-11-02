@@ -14,7 +14,7 @@ teristic and skeleton.**
 
 
 
-https://user-images.githubusercontent.com/117270461/199520619-2d527795-9415-45f6-877b-846603c4b551.mp4
+https://github.com/conferenceAnonymous/TTA-pose-transfer/tree/master/tiktok_video/00035_00043.mp4
 
 
 
