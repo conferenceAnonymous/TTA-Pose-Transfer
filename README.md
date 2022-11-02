@@ -13,7 +13,3 @@ teristic and skeleton.**
 </p>
 
 
-
-
-https://user-images.githubusercontent.com/117270461/199524610-8cfe521f-b30b-4e76-a88e-f7ac26fc5915.mp4
-
