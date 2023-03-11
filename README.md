@@ -17,3 +17,8 @@ teristic and skeleton.**
 <img src="tiktok_video/00035_00043.gif" width="400px"/> <img src="tiktok_video/00225_00043.gif" width="400px"/>
 <img src="tiktok_video/00058_00104.gif" width="400px"/> <img src="tiktok_video/00165_00035.gif" width="400px"/>
 </p>
+
+**Open-World Celebrity Motion Synthesis.**
+<p float="center">
+<img src="image/图片1.png">
+</p>
